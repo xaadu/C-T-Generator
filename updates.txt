@@ -3,7 +3,7 @@
 [Update]
 Name = C&T Generator
 ProductVersion = 6.9.0.0
-URL = https://github-production-release-asset-2e65be.s3.amazonaws.com/238950506/5868ef00-5298-11ea-9eec-07163172ce35?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200218T155044Z&X-Amz-Expires=300&X-Amz-Signature=085be6895071b29851f9322cee12d33cbf58678c2fd5d34edb21801c4807f65d&X-Amz-SignedHeaders=host&actor_id=41540861&response-content-disposition=attachment%3B%20filename%3DC.T_Generator_V6.9.0.exe&response-content-type=application%2Foctet-stream
+URL = https://master.dl.sourceforge.net/project/certgen/C_T_Generator_V6.9.0.exe
 Size = 26339401
 SHA256 = AC75C4B61458CC993BDAE0860E77AB8932E006F46BE06A229A7A371663AF535C
 MD5 = b5b00a26e41891c42fd26d79918e8aa8
