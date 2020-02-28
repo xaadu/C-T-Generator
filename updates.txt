@@ -2,19 +2,16 @@
 
 [Update]
 Name = C&T Generator
-ProductVersion = 6.9.0.0
-URL = https://master.dl.sourceforge.net/project/certgen/C_T_Generator_V6.9.0.exe
-Size = 26339401
-SHA256 = AC75C4B61458CC993BDAE0860E77AB8932E006F46BE06A229A7A371663AF535C
-MD5 = b5b00a26e41891c42fd26d79918e8aa8
-ServerFileName = C&T_Generator_V6.9.0.exe
-RegistryKey = HKUD\Software\XS Technology\C&T Generator\Version
-Version = 6.9.0.0
-Description = Version 6.9.0 is available!
-Feature = Test
-Feature1 = Test 2
-Feature2 = Test 3
-Enhancement = Bugs
-Enhancement1 = Fixed
-Enhancement2 = Improvements
-BugFix = BlaBlaBla
+ProductVersion = 7.0.1.0
+URL = https://master.dl.sourceforge.net/project/certgen/C_T%20Generator%20V7.0.1.exe
+Size = 25645198
+ReleaseDate = 28/02/2020
+SHA256 = B6FFAD546C1E3D34AA1AB9885FC0DB78F1B80D33B20EDDC5681A1D9786DCFD5D
+MD5 = 7acc7bdc74fc966642ed08c7c61fe600
+ServerFileName = C&T Generator V7.0.1.exe
+RegistryKey = HKUD\Software\XS Innovations\C&T Generator\Version
+Version = 7.0.1.0
+Description = A new version is available. Update to get new features!
+Feature = Updater Shortcut On HomeScreen
+Enhancement = Enhanced Speed
+BugFix = First time launch bug fixed
